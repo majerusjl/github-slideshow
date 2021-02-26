@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide! (JLM)"
 ---
-Your text
+This is new info.
 Use the left arrow to go back!
